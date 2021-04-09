@@ -31,3 +31,16 @@
     }
 
 }
+@media (min-width: 1100px) {
+    
+    div#table{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    div.box{
+        width: 25%;
+        height: 100px;
+    }
+
+}
